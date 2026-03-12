@@ -121,11 +121,11 @@ Some key insights derived from the dashboard include:
 
 ### Sales Performance Dashboard
 
-![Dashboard Page 1](screenshots/page1.png)
+![Dashboard Page 1](screenshots/Page 1.png)
 
 ### Sales Forecast Dashboard
 
-![Dashboard Page 2](screenshots/page2.png)
+![Dashboard Page 2](screenshots/Page 2.png)
 
 ---
 
