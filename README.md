@@ -125,7 +125,7 @@ Some key insights derived from the dashboard include:
 
 ### Sales Forecast Dashboard
 
-![Dashboard Page 2](Page 2.png)
+![Dashboard Page 2](page2.png)
 
 ---
 
